@@ -1,2 +1,2 @@
-# Chatting-Program
-Chatting Program on Linux, Used Qt
+# ChattingProject
+- Chatting Program on Ubuntu, Used Qt
