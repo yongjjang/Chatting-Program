@@ -1,4 +1,4 @@
-# ChattingProject
+# Chatting Program(TnT Chat)
 - Chatting Program on Ubuntu, Used Qt
 
 ## 개요
